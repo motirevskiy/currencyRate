@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CollectionViewController.collectionView(_:cellForItemAt:):CollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.currencyLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CollectionViewCell.changeLabelColor():CollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "labelValue">
+            </PersistentString>
+            <PersistentString
+               value = "prevValueLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "currancyLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__pthread_kill:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "CollectionViewCell.prevValue.getter:CollectionViewCell.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
