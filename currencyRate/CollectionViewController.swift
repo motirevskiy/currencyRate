@@ -114,6 +114,6 @@ class CollectionViewController: UICollectionViewController {
 
 extension CollectionViewCell: UICollectionViewDelegateFlowLayout    {
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
-        return CGSize(width: UIScreen.main.bounds.width - 30, height: UIScreen.main.bounds.height)
+        return CGSize(width: UIScreen.main.bounds.width - 100, height: UIScreen.main.bounds.height)
         }
 }
